@@ -60,6 +60,6 @@
     "body-parser": "^1.10.2",
     "express": "^4.11.1",
     "http-proxy": "^1.8.1",
-    "underscore.string": "2.4.0"
+    "underscore.string": "3.3.5"
   }
 }
